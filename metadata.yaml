@@ -1,0 +1,32 @@
+_repo: Bayard--the-Good-Knight-Without-Fear-and-Without-Reproach_11363
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cole, Herbert
+    alias: Cole, H. (Herbert)
+    birthdate: 1867
+    deathdate: 1930
+    gutenberg_agent_id: '40327'
+    url: http://www.gutenberg.org/2009/agents/40327
+creator:
+  author:
+    agent_name: Hare, Christopher
+    alias: Andrews, Marian, Mrs.
+    gutenberg_agent_id: '3954'
+    url: http://www.gutenberg.org/2009/agents/3954
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bayard, Pierre Terrail, seigneur de, approximately 1473-1524'
+- !lcsh 'Knights and knighthood'
+- !lcc 'DG'
+- GITenberg
+title: 'Bayard: the Good Knight Without Fear and Without Reproach'
+url: http://www.gutenberg.org/ebooks/11363
